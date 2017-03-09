@@ -1,0 +1,6 @@
+﻿  Lexer.cpp
+  Complier_Project.cpp
+  Generating Code...
+c:\users\brian\desktop\school\complier design\complier_project\complier_project\lexer.cpp(267): warning C4715: 'Lexer::next': not all control paths return a value
+  Complier_Project.vcxproj -> C:\Users\Brian\Desktop\School\Complier Design\Complier_Project\Debug\Complier_Project.exe
+  Complier_Project.vcxproj -> C:\Users\Brian\Desktop\School\Complier Design\Complier_Project\Debug\Complier_Project.pdb (Full PDB)
